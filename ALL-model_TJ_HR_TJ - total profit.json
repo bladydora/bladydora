@@ -1,0 +1,3530 @@
+[
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -588
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -549
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -510
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -471
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -432
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -354
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -249
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": -118
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": 147
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": 427
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": 561
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 0,
+    "Total profit": 922
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -520
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -481
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -442
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -403
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -364
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -286
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -182
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": -51
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": 214
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": 495
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": 628
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 0,
+    "Total profit": 990
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -475
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -436
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -397
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -358
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -319
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -241
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -136
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": -5
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": 260
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": 540
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": 674
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 0,
+    "Total profit": 1035
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -444
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -405
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -366
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -327
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -288
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -210
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": -106
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": 25
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": 290
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": 571
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": 704
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 0,
+    "Total profit": 1066
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -427
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -388
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -349
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -310
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -271
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -193
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": -88
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": 43
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": 308
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": 588
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": 722
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 0,
+    "Total profit": 1083
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": -229
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": -190
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": -151
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": -112
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": -73
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 5
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 110
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 241
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 506
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 786
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 920
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 0,
+    "Total profit": 1281
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 121
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 160
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 199
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 238
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 277
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 355
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 459
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 591
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 855
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 1136
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 1270
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 0,
+    "Total profit": 1631
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -626
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -587
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -548
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -510
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -471
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -393
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -288
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": -157
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": 108
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": 389
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": 522
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 5,
+    "Total profit": 883
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -559
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -520
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -481
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -442
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -403
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -325
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -220
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": -89
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": 176
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": 457
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": 590
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 5,
+    "Total profit": 951
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -513
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -474
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -436
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -397
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -358
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -280
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -175
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": -44
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": 221
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": 502
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": 635
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 5,
+    "Total profit": 996
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -483
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -444
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -405
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -366
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -327
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -249
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -144
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": -13
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": 252
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": 533
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": 666
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 5,
+    "Total profit": 1027
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -465
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -426
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -388
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -349
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -310
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -232
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": -127
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": 4
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": 269
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": 550
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": 683
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 5,
+    "Total profit": 1044
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": -267
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": -228
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": -190
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": -151
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": -112
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": -34
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": 71
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": 202
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": 467
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": 748
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": 881
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 5,
+    "Total profit": 1242
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 83
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 121
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 160
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 199
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 238
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 316
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 421
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 552
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 817
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 1098
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 1231
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 5,
+    "Total profit": 1592
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -628
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -589
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -550
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -511
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -472
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -394
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -289
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": -158
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": 107
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": 387
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": 521
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 10,
+    "Total profit": 882
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -560
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -521
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -482
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -443
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -404
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -327
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -222
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": -91
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": 174
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": 455
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": 588
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 10,
+    "Total profit": 950
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -515
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -476
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -437
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -398
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -359
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -281
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -177
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": -45
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": 219
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": 500
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": 634
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 10,
+    "Total profit": 995
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -484
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -445
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -406
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -367
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -328
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -251
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -146
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": -15
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": 250
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": 531
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": 664
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 10,
+    "Total profit": 1026
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -467
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -428
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -389
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -350
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -311
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -233
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": -128
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": 3
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": 268
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": 548
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": 682
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 10,
+    "Total profit": 1043
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": -269
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": -230
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": -191
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": -152
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": -113
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": -35
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": 69
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": 201
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": 465
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": 746
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": 880
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 10,
+    "Total profit": 1241
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 81
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 120
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 159
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 198
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 237
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 315
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 419
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 550
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 815
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 1096
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 1229
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 10,
+    "Total profit": 1591
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -668
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -629
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -590
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -551
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -512
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -434
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -330
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": -198
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": 66
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": 347
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": 481
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 20,
+    "Total profit": 842
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -600
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -561
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -522
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -483
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -444
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -367
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -262
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": -131
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": 134
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": 415
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": 548
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 20,
+    "Total profit": 910
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -555
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -516
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -477
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -438
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -399
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -321
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -217
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": -86
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": 179
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": 460
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": 593
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 20,
+    "Total profit": 955
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -524
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -485
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -446
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -407
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -368
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -291
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -186
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": -55
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": 210
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": 491
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": 624
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 20,
+    "Total profit": 986
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -507
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -468
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -429
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -390
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -351
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -273
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -169
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": -37
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": 227
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": 508
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": 641
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 20,
+    "Total profit": 1003
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": -309
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": -270
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": -231
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": -192
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": -153
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": -75
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": 29
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": 160
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": 425
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": 706
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": 839
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 20,
+    "Total profit": 1201
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 41
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 80
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 119
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 158
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 197
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 274
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 379
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 510
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 775
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 1056
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 1189
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 20,
+    "Total profit": 1551
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -699
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -660
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -621
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -582
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -543
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -466
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -361
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": -230
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": 35
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": 316
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": 449
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 30,
+    "Total profit": 811
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -631
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -592
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -553
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -515
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -476
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -398
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -293
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": -162
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": 103
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": 384
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": 517
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 30,
+    "Total profit": 878
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -586
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -547
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -508
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -469
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -430
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -353
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -248
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": -117
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": 148
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": 429
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": 562
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 30,
+    "Total profit": 924
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -555
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -516
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -477
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -439
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -400
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -322
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -217
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": -86
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": 179
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": 460
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": 593
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 30,
+    "Total profit": 954
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -538
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -499
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -460
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -421
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -382
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -305
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -200
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": -69
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": 196
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": 477
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": 610
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 30,
+    "Total profit": 972
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -340
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -301
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -262
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -223
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -184
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -107
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": -2
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": 129
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": 394
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": 675
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": 808
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 30,
+    "Total profit": 1170
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 10
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 49
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 88
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 127
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 166
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 243
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 348
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 479
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 744
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 1025
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 1158
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 30,
+    "Total profit": 1520
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -702
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -663
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -624
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -585
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -547
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -469
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -364
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": -233
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": 32
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": 313
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": 446
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 40,
+    "Total profit": 808
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -634
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -595
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -557
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -518
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -479
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -401
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -296
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": -165
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": 100
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": 381
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": 514
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 40,
+    "Total profit": 875
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -589
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -550
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -511
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -472
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -434
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -356
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -251
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": -120
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": 145
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": 426
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": 559
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 40,
+    "Total profit": 920
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -558
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -519
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -481
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -442
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -403
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -325
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -220
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": -89
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": 176
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": 457
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": 590
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 40,
+    "Total profit": 951
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -541
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -502
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -463
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -424
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -386
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -308
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -203
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": -72
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": 193
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": 474
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": 607
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 40,
+    "Total profit": 969
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -343
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -304
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -265
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -227
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -188
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -110
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": -5
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": 126
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": 391
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": 672
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": 805
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 40,
+    "Total profit": 1166
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 7
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 46
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 85
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 123
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 162
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 240
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 345
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 476
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 741
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 1022
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 1155
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 40,
+    "Total profit": 1516
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -745
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -706
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -668
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -629
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -590
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -512
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -407
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -276
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": -11
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": 270
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": 403
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 0,
+    "Model project n": 60,
+    "Total profit": 764
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -678
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -639
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -600
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -561
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -522
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -444
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -339
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": -208
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": 57
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": 338
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": 471
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 3,
+    "Model project n": 60,
+    "Total profit": 832
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -632
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -593
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -555
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -516
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -477
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -399
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -294
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": -163
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": 102
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": 383
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": 516
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 5,
+    "Model project n": 60,
+    "Total profit": 877
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -602
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -563
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -524
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -485
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -446
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -368
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -263
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": -132
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": 133
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": 414
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": 547
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 8,
+    "Model project n": 60,
+    "Total profit": 908
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -584
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -545
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -507
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -468
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -429
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -351
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -246
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": -115
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": 150
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": 431
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": 564
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 10,
+    "Model project n": 60,
+    "Total profit": 925
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -386
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -348
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -309
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -270
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -231
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -153
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": -48
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": 83
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": 348
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": 629
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": 762
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 20,
+    "Model project n": 60,
+    "Total profit": 1123
+  },
+  {
+    "SMWT project n": 0,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": -36
+  },
+  {
+    "SMWT project n": 5,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 2
+  },
+  {
+    "SMWT project n": 10,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 41
+  },
+  {
+    "SMWT project n": 15,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 80
+  },
+  {
+    "SMWT project n": 20,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 119
+  },
+  {
+    "SMWT project n": 30,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 197
+  },
+  {
+    "SMWT project n": 50,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 302
+  },
+  {
+    "SMWT project n": 80,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 433
+  },
+  {
+    "SMWT project n": 120,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 698
+  },
+  {
+    "SMWT project n": 168,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 979
+  },
+  {
+    "SMWT project n": 200,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 1112
+  },
+  {
+    "SMWT project n": 250,
+    "CFD project n": 40,
+    "Model project n": 60,
+    "Total profit": 1473
+  }
+]
